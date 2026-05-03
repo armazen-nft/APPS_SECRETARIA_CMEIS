@@ -13,19 +13,55 @@ Este projeto organiza ferramentas úteis para escolas públicas, priorizando:
 
 ---
 
-## 📥 Como baixar e usar
+## 📥 Apps para Secretaria de CMEIs - Piraquara
 
-### Opção 1 — Download rápido
-1. Clique no botão verde **Code**.
-2. Clique em **Download ZIP**.
-3. Extraia os arquivos no computador.
-4. Abra os arquivos/documentos conforme a necessidade da equipe.
+> ⚠️ **Status atual (03/05/2026):** os arquivos HTML dos sistemas ainda não estão versionados neste repositório. Por isso, links `raw.githubusercontent.com` para esses nomes retornam **404 Not Found**.
 
-### Opção 2 — Clonar com Git
-```bash
-git clone https://github.com/<SEU-USUARIO>/APPS_SECRETARIA_CMEIS.git
-cd APPS_SECRETARIA_CMEIS
-```
+### 🥗 Sistema de Gestão Nutricional (F1, V1, V2, Cardápio e Notas Fiscais)
+
+[![Abrir pasta principal](https://img.shields.io/badge/📂_Abrir_pasta_do_repositório-2e7d52?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armazen-nft/APPS_SECRETARIA_CMEIS)
+
+> Sistema completo de controle de estoque, cardápio e consumo diário para merendeiras.
+
+---
+
+### 📋 Sistema de Gerenciamento de Matrículas (Educação Infantil)
+
+[![Abrir pasta principal](https://img.shields.io/badge/📂_Abrir_pasta_do_repositório-1a5c38?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armazen-nft/APPS_SECRETARIA_CMEIS)
+
+> Gestão completa de turmas, vagas, espera e matrículas com base legal (LDBEN, CNE/CEB, Del. CEE/PR).
+
+---
+
+**Como usar:**  
+1. Faça upload dos arquivos `.html` dos sistemas para a raiz do repositório.
+2. Clique em cada arquivo no GitHub e use o botão **Raw**.
+3. Copie a URL `https://raw.githubusercontent.com/...` e substitua nos botões abaixo.
+
+## 🔗 Como pegar o link correto (se quiser mudar)
+
+1. Vá no seu repositório.
+2. Clique no arquivo `.html`.
+3. Clique no botão **Raw**.
+4. Copie a URL que aparece (ela começa com `https://raw.githubusercontent.com/...`).
+
+## ✨ Dica extra: Botões ainda mais bonitos (HTML)
+
+Se quiser botões maiores e mais chamativos, use esta versão (depois de trocar as URLs):
+
+<div align="center">
+
+  <h2>🚀 Downloads</h2>
+
+  <a href="COLE_AQUI_O_LINK_RAW_DO_SISTEMA_NUTRICIONAL" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🥗_Sistema_de_Gestão_Nutricional-2e7d52?style=for-the-badge&logo=html5&logoColor=white&labelColor=1b5e3b" height="60" alt="Sistema de Gestão Nutricional">
+  </a>
+
+  <a href="COLE_AQUI_O_LINK_RAW_DO_SISTEMA_MATRICULAS" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/📋_Sistema_de_Matrículas-1a3a5c?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a5c38" height="60" alt="Sistema de Matrículas">
+  </a>
+
+</div>
 
 ---
 
