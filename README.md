@@ -2,6 +2,10 @@
 
 Repositório com aplicativos e materiais gratuitos para apoiar o trabalho das secretarias escolares, com foco em uso prático, simplicidade e autonomia da equipe.
 
+[![Abrir Manual](https://img.shields.io/badge/📘%20Abrir%20Manual-Mapa%20de%20Merenda-1f6feb?style=for-the-badge)](docs/manual-mapa-merenda.md)
+[![Baixar ZIP](https://img.shields.io/badge/⬇️%20Baixar%20Projeto-ZIP-2da44e?style=for-the-badge)](../../archive/refs/heads/main.zip)
+[![Criar Issue](https://img.shields.io/badge/💬%20Relatar%20Problema-Issues-d1242f?style=for-the-badge)](../../issues)
+
 ## 🎯 Objetivo do projeto
 Este projeto organiza ferramentas úteis para escolas públicas, priorizando:
 - uso gratuito;
@@ -32,7 +36,7 @@ cd APPS_SECRETARIA_CMEIS
 ## 📚 Documentação principal
 
 - **Manual Orientador — Mapa de Merenda**: [`docs/manual-mapa-merenda.md`](docs/manual-mapa-merenda.md)
-- **Abrir tutorial em nova aba/janela**: <a href="docs/manual-mapa-merenda.md" target="_blank" rel="noopener noreferrer">Clique aqui para abrir o tutorial</a>
+- **Abrir tutorial em nova aba/janela**: use o botão **📘 Abrir Manual** no topo da página.
 
 ---
 
