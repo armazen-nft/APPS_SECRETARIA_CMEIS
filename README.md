@@ -2,6 +2,18 @@
 
 Repositório com aplicativos e materiais gratuitos para apoiar o trabalho das secretarias escolares, com foco em uso prático, simplicidade e autonomia da equipe.
 
+## 🚀 Acesso direto (sem botão especial)
+Se os “botões” não aparecerem no seu navegador, use estes links diretos (texto simples):
+
+- **📘 Abrir Manual (Markdown):** [docs/manual-mapa-merenda.md](docs/manual-mapa-merenda.md)
+- **🖥️ Abrir aplicativo HTML inicial:** [apps/index.html](apps/index.html)
+- **⬇️ Baixar projeto em ZIP:** [Download ZIP da branch principal](../../archive/refs/heads/main.zip)
+- **💬 Relatar problema / pedir ajuda:** [Issues do repositório](../../issues)
+
+> Observação importante: além da documentação, agora o repositório possui um aplicativo HTML inicial em `apps/index.html`.
+
+---
+
 ## 🎯 Objetivo do projeto
 Este projeto organiza ferramentas úteis para escolas públicas, priorizando:
 - uso gratuito;
@@ -32,7 +44,6 @@ cd APPS_SECRETARIA_CMEIS
 ## 📚 Documentação principal
 
 - **Manual Orientador — Mapa de Merenda**: [`docs/manual-mapa-merenda.md`](docs/manual-mapa-merenda.md)
-- **Abrir tutorial em nova aba/janela**: <a href="docs/manual-mapa-merenda.md" target="_blank" rel="noopener noreferrer">Clique aqui para abrir o tutorial</a>
 
 ---
 
@@ -42,6 +53,8 @@ cd APPS_SECRETARIA_CMEIS
 APPS_SECRETARIA_CMEIS/
 ├── README.md
 ├── LICENSE
+├── apps/
+│   └── index.html
 └── docs/
     └── manual-mapa-merenda.md
 ```
