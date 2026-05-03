@@ -13,19 +13,51 @@ Este projeto organiza ferramentas úteis para escolas públicas, priorizando:
 
 ---
 
-## 📥 Como baixar e usar
+## 📥 Apps para Secretaria de CMEIs - Piraquara
 
-### Opção 1 — Download rápido
-1. Clique no botão verde **Code**.
-2. Clique em **Download ZIP**.
-3. Extraia os arquivos no computador.
-4. Abra os arquivos/documentos conforme a necessidade da equipe.
+### 🥗 Sistema de Gestão Nutricional (F1, V1, V2, Cardápio e Notas Fiscais)
 
-### Opção 2 — Clonar com Git
-```bash
-git clone https://github.com/<SEU-USUARIO>/APPS_SECRETARIA_CMEIS.git
-cd APPS_SECRETARIA_CMEIS
-```
+[![Download Sistema Nutricional](https://img.shields.io/badge/📥_Baixar_Sistema_Nutricional-2e7d52?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/armazen-nft/APPS_SECRETARIA_CMEIS/main/SISTEMA%20DE%20GEST%C3%83O%20NURICIONAL.html)
+
+> Sistema completo de controle de estoque, cardápio e consumo diário para merendeiras.
+
+---
+
+### 📋 Sistema de Gerenciamento de Matrículas (Educação Infantil)
+
+[![Download Sistema Matrículas](https://img.shields.io/badge/📥_Baixar_Sistema_Matr%C3%ADculas-1a5c38?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/armazen-nft/APPS_SECRETARIA_CMEIS/main/SISTEMA%20DE%20GERENCIAMENTO%20DE%20MATRICULA.html)
+
+> Gestão completa de turmas, vagas, espera e matrículas com base legal (LDBEN, CNE/CEB, Del. CEE/PR).
+
+---
+
+**Como usar:**  
+Baixe o arquivo `.html`, salve no computador e abra com qualquer navegador (funciona **offline**).
+
+## 🔗 Como pegar o link correto (se quiser mudar)
+
+1. Vá no seu repositório.
+2. Clique no arquivo.
+3. Clique no botão "Raw".
+4. Copie a URL que aparece (ela começa com `https://raw.githubusercontent.com/...`).
+
+## ✨ Dica extra: Botões ainda mais bonitos (HTML)
+
+Se quiser botões maiores e mais chamativos, use esta versão:
+
+<div align="center">
+
+  <h2>🚀 Downloads</h2>
+
+  <a href="https://raw.githubusercontent.com/armazen-nft/APPS_SECRETARIA_CMEIS/main/SISTEMA%20DE%20GEST%C3%83O%20NURICIONAL.html" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🥗_Sistema_de_Gestão_Nutricional-2e7d52?style=for-the-badge&logo=html5&logoColor=white&labelColor=1b5e3b" height="60">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/armazen-nft/APPS_SECRETARIA_CMEIS/main/SISTEMA%20DE%20GERENCIAMENTO%20DE%20MATRICULA.html" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/📋_Sistema_de_Matrículas-1a3a5c?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a5c38" height="60">
+  </a>
+
+</div>
 
 ---
 
